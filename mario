@@ -1,0 +1,24 @@
+Personajes: 
+	Enemigos:
+	Primarios
+	|	|
+	|	BOWSER
+	|	|
+	|	Hijo de Bowser
+	|
+	Secundarios:
+	|	|
+	|	Cheep
+	|	|
+	|	Koopa
+	|	|	|
+	|	|	Flyer_Koopa
+	|	|
+	|	Goomba
+	Heroes:
+		|
+		Mario
+			|
+			Luigi
+		|
+		

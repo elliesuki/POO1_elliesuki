@@ -1,0 +1,21 @@
+Clase: Televisor
+	Atributos:
+		1) marca (caracter)
+		2) color (caracter)
+		3) modelo (alfanúmerico)
+		4) año_fabricacion (real)
+		5) power (logico)
+		6) canal (entero)
+		7) vga (logico)
+		8) volumen (entero)
+		9) silenciar (logico)
+
+	Métodos: 
+		encender
+		apagar
+		subir volumen
+		bajar volumen
+		subir canal
+		bajar canal
+		ingresar canal
+		

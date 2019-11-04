@@ -1,0 +1,73 @@
+obj tangibles:
+	1) hoja del registro de notas
+		Atributos:
+		1.1: 
+		1.2: 
+		1.3: 
+		1.4: 
+		1.5:
+		Metodos:
+		2.1:
+		2.2:
+		2.3:
+
+	2) profesor
+		Atributos:
+		1.1: materia: Inglés
+		1.2: metodo_evaluacion: examenes
+		1.3: nombre: Luis
+		1.4: 
+		1.5:
+		Metodos:
+		2.1:
+		2.2:
+		2.3:
+		
+	3) alumnos:
+		Atributos:
+		1.1: 
+		1.2: 
+		1.3: 
+		1.4: 
+		1.5:
+		Metodos:
+		2.1:
+		2.2:
+		2.3:
+		
+obj intangibles:
+	1) horarios
+		Atributos:
+		1.1: 
+		1.2: 
+		1.3: 
+		1.4: 
+		1.5:
+		Metodos:
+		2.1:
+		2.2:
+		2.3:
+		
+	2) clasificaciones
+		Atributos:
+		1.1: 
+		1.2: 
+		1.3: 
+		1.4: 
+		1.5:
+		Metodos:
+		2.1:
+		2.2:
+		2.3:
+		
+	3) clases
+		Atributos:
+		1.1: 
+		1.2: 
+		1.3: 
+		1.4: 
+		1.5:
+		Metodos:
+		2.1:
+		2.2:
+		2.3:
